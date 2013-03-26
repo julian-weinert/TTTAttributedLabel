@@ -1,7 +1,6 @@
 # TTTAttributedLabel
 
 **This is an Bugfix on the original [TTTAttributedLabel](https://github.com/mattt/TTTAttributedLabel) class by [mattt](https://github.com/mattt/).**
-(Awaiting [Pull Request](https://github.com/mattt/TTTAttributedLabel/pull/176))
 
 **A drop-in replacement for `UILabel` that supports attributes, data detectors, links, and more**
 
